@@ -14,22 +14,22 @@
   "author": "Cole Furfaro-Strode",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^3.10.1"
+    "lodash": "^4.17.2"
   },
   "devDependencies": {
     "chai": "^3.4.0",
     "growl": "^1.8.1",
-    "grunt": "^0.4.5",
-    "grunt-contrib-jshint": "^0.11.3",
-    "grunt-jscs": "^2.3.0",
-    "grunt-shell": "^1.1.2",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-jscs": "^3.0.1",
+    "grunt-shell": "^2.1.0",
     "istanbul": "^0.4.0",
     "matchdep": "^1.0.0",
-    "mocha": "^2.3.3",
+    "mocha": "^3.1.2",
     "proxyquire": "^1.7.3",
     "sinon": "^1.17.2",
     "sinon-chai": "^2.8.0",
     "time-grunt": "^1.2.2",
-    "xunit-file": "0.0.9"
+    "xunit-file": "1.0.0"
   }
 }
